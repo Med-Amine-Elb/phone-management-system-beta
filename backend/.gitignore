@@ -1,0 +1,15 @@
+# Ignore environment files
+.env
+
+# Ignore uploads
+uploads/
+
+# Ignore build output
+/target/
+/build/
+/out/
+
+# IDE files
+*.iml
+.idea/
+.vscode/ 
